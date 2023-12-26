@@ -1,2 +1,2 @@
 # github-para-programadores
-esta es una prueba de repositorio nuevo
+esta es una prueba de repositorio nuevo.
